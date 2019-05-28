@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+* Name: Riley de Gans
+* Date: May 27th, 2019
+* Description: An app that finds the nth permuation of numbers 0 to 9
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
